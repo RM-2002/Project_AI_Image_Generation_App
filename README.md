@@ -1,6 +1,7 @@
 # Project_AI_Image_Generation_App
 
 A full stack Mern AI generation app using Node.js, Express.js, MongoDB, and React.js based upon OpenAI's DALL-E mode, a deep learning model that generates images from text input.Here are some photos of my image generation app.
+
 1. 
 ![image](https://user-images.githubusercontent.com/89720737/225073048-77b84836-97ca-4d1a-841f-20818ba01529.png)
 
